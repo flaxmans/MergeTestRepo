@@ -1,5 +1,5 @@
 here's some new plain text
-
+here's some text from Claire!
+Lukas is just happy to be invovled!
 Here's Sam's changes made WITHOUT pulling recent updates from GitHub.
 This will probably make a merge conflict.
-
