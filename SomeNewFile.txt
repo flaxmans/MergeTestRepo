@@ -1,1 +1,5 @@
 here's some new plain text
+
+Here's Sam's changes made WITHOUT pulling recent updates from GitHub.
+This will probably make a merge conflict.
+
